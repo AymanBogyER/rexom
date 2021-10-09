@@ -10,5 +10,5 @@
     "clientSECRET": "<The Bot Secret>",
 
     "mainPrefix": "<The Bot Prefix>",
-    "mainLang": "<The Bot Lang, only: ['ar', 'en']>"
+    "mainLang": "en"
 }
